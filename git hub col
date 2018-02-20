@@ -1,0 +1,17 @@
+BlackIndicates that the file is unchanged between your forked GitHub repository and the IDE.
+GreenIndicates that the file is in the IDE only, and not in any repository.
+BlueIndicates that the file exists in your GitHub repository, and has been modified in the IDE but not committed to the repository.
+MagentaIndicates that the file has been updated in the repository, but not in the IDE. 
+
+To resolve this, you should click the Update from Repo button, where you sill see the file appear in the Obsolete column. 
+
+More information about the Update from Repo button can be found below.RedBoth the IDE version and repository 
+version have been updated, and are in need of a conflict resolution. 
+To resolve this, you should click the Update from Repo button and follow the steps there (more information about the Update 
+from Repo action can be found below).BrownIndicates that the SmartApp or Device Handler is unattached to the repository version. 
+
+Typically this happens when a new SmartApp or Device Handler is created from a template, and the name or namespace hasn’t 
+been changed. If you update from the repo without changing the name or namespace, the IDE version will be replaced with the 
+repo version. 
+
+Typically in this case you would change the name and namespace to be unique for your code.
