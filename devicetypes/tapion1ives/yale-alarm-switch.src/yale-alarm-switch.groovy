@@ -9,7 +9,7 @@ input("password", "password", title: "Password", description: "Your Password for
 
 }
 metadata {
-definition (name: "YALE ALARM SWITCH", namespace: "Tapion1ives", author: "Tapion1ives") {
+definition (name: "YALE ALARM SWITCH", namespace: "smartthings", author: "Tapion1ives") {
 
 capability "Refresh"
 capability "Switch"
