@@ -7,8 +7,8 @@ Works with:
 
 ## Table of contents
 
-* Capabilities
-* Troubleshooting
+* [Capabilities] (#Capabilities)
+* [Troubleshooting] (#Troubleshooting)
 
 ## Capabilities
  * Home Arm.
@@ -17,8 +17,6 @@ Works with:
 
 ## Troubleshooting
 
-Home arm - use 'lock door'
-
-Full arm - use 'On'
-
-Disarm - use 'OFF'
+* Home arm - use 'lock door'
+* Full arm - use 'On'
+* Disarm - use 'OFF'
