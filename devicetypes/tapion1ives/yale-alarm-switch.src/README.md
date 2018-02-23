@@ -7,11 +7,11 @@ Works with:
 
 ## Table of contents
 
-* [Capabilities] (#Capabilities)
-* [Troubleshooting] (#Troubleshooting)
+* [Capabilities](#Capabilities)
+* [Troubleshooting](#Troubleshooting)
 
 ## Capabilities
- * Home Arm.
+ ** Home Arm.
  * Full Arm (away).
  * Disarm.
 
