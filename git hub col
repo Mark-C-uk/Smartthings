@@ -1,5 +1,7 @@
 runLocally: true
 
+metadata {
+	definition (name: "Z-Wave Switch Generic", namespace: "smartthings", author: "SmartThings", ocfDeviceType: "oic.d.switch", runLocally: true, minHubCoreVersion: '000.019.00012', executeCommandsLocally: true) {
 
 
 BlackIndicates that the file is unchanged between your forked GitHub repository and the IDE.
