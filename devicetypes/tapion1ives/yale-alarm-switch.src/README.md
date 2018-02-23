@@ -1,20 +1,20 @@
-Yale Smart home
+# Yale Smart home
 
 Cloud Execution
 
 Works with:
-Yale SmartHome
+* [Yale SmartHome]
 
-Table of contents
+## Table of contents
 
-Capabilities
-Troubleshooting
+* [Capabilities]
+* [Troubleshooting]
 
-Capabilities
+## Capabilities
 
 
 
-Troubleshooting
+## Troubleshooting
 
 Home arm - use 'lock door'
 
