@@ -15,6 +15,7 @@ Capabilities
 
 
 Troubleshooting
+
 Home arm - use 'lock door'
 Full arm - use 'On'
 Disarm - use 'OFF'
