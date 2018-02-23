@@ -11,9 +11,11 @@ Works with:
 * [Troubleshooting](#Troubleshooting)
 
 ## Capabilities
-* **Home Arm**
-* **Full Arm (away)**
+* **Lock** Home Arm
+* **Switch** Full Arm(away) / DisArm
 * **Disarm**
+* **Refresh**
+* **Sstatus**
 
 ## Troubleshooting
 
