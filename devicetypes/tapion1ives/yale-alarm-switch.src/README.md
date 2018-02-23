@@ -11,9 +11,9 @@ Works with:
 * Troubleshooting
 
 ## Capabilities
- Home Arm.
- Full Arm (away).
- Disarm.
+ *Home Arm.
+ *Full Arm (away).
+ *Disarm.
 
 ## Troubleshooting
 
