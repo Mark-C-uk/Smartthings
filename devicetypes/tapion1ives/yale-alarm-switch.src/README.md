@@ -3,16 +3,17 @@
 Cloud Execution
 
 Works with:
-* [Yale SmartHome]
+* Yale SmartHome
 
 ## Table of contents
 
-* [Capabilities]
-* [Troubleshooting]
+* Capabilities
+* Troubleshooting
 
 ## Capabilities
-
-
+Home Arm
+Full Arm (away)
+Disarm
 
 ## Troubleshooting
 
