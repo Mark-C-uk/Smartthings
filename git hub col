@@ -1,3 +1,7 @@
+runLocally: true
+
+
+
 BlackIndicates that the file is unchanged between your forked GitHub repository and the IDE.
 GreenIndicates that the file is in the IDE only, and not in any repository.
 BlueIndicates that the file exists in your GitHub repository, and has been modified in the IDE but not committed to the repository.
