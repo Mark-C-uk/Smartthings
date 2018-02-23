@@ -18,5 +18,5 @@ Works with:
 ## Troubleshooting
 
 * **Home arm** - use 'lock door'
-* **Full arm** - use 'On'
-* **Disarm** - use 'OFF'
+* **Full arm** - use 'Switch On'
+* **Disarm** - use 'Switch OFF'
