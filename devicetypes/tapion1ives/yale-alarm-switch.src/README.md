@@ -12,11 +12,11 @@ Works with:
 
 ## Capabilities
  **Home Arm**
- *Full Arm (away).
- * Disarm.
+ **Full Arm (away)**
+ **Disarm**
 
 ## Troubleshooting
 
-* Home arm - use 'lock door'
-* Full arm - use 'On'
-* Disarm - use 'OFF'
+**Home arm** - use 'lock door'
+**Full arm** - use 'On'
+**Disarm** - use 'OFF'
